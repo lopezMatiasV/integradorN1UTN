@@ -16,4 +16,4 @@ En el desarrollo de programas eficientes, la forma en que se almacenan, recupera
 
 ![image](https://github.com/user-attachments/assets/16006aa9-ef68-4398-be7d-a3ea1343e3dd)
 
-Link del video: 
+Link del video: https://youtu.be/FecPP2xI-2k
